@@ -1,2 +1,2 @@
-C:\Users\jakob\OneDrive\Documents\_UNREAL\SummerGame\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\Definitions.SummerGame.h
-c:\users\jakob\onedrive\documents\_unreal\summergame\summergame\summergame\source\summergame\SummerGame.h
+C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\Definitions.SummerGame.h
+C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Source\SummerGame\SummerGame.h

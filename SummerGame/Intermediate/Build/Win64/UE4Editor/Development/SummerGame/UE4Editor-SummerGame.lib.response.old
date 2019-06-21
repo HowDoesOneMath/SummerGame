@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SummerGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Intermediate\Build\Win64\SummerGameEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\SummerGame.cpp.obj"
+"C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\SummerGameGameModeBase.cpp.obj"
+"C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\SummerGame.init.gen.cpp.obj"
+"C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\SummerGameGameModeBase.gen.cpp.obj"
+"C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\Default.rc2.res"
+/OUT:"C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\UE4Editor-SummerGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_SummerGame

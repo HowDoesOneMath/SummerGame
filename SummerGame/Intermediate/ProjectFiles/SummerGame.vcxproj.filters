@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\SummerGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{046B9031-E202-4693-92EB-392BC1EFA238}</UniqueIdentifier>
+      <UniqueIdentifier>{D48B0466-BE92-4611-A0EA-C98D40F11AE3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SummerGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{DA17E0FC-A0D7-4695-A75A-8A62D4A856A4}</UniqueIdentifier>
+      <UniqueIdentifier>{1D4ED393-9CA1-44BA-A5D0-05E7074FB1A7}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\SummerGame">
-      <UniqueIdentifier>{40B01426-808F-413F-814D-7773454A63C4}</UniqueIdentifier>
+      <UniqueIdentifier>{D086A020-2B58-4AD5-8021-EEF895CA8409}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SummerGame\SummerGame.Build.cs">
       <Filter>Source\SummerGame</Filter>
@@ -40,6 +40,18 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\SummerGame\SummerGameGameModeBase.h">
       <Filter>Source\SummerGame</Filter>
+    </ClInclude>
+    <Filter Include="Source\SummerGame\Private">
+      <UniqueIdentifier>{BC04B4A4-D748-4AAC-BE81-51CB4F0DE335}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SummerGame\Private\class_Character.cpp">
+      <Filter>Source\SummerGame\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\SummerGame\Public">
+      <UniqueIdentifier>{8BE4EB97-BB55-4199-8925-CDBC0F0D5B0A}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\SummerGame\Public\class_Character.h">
+      <Filter>Source\SummerGame\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
