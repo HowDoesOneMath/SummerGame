@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\SummerGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{D48B0466-BE92-4611-A0EA-C98D40F11AE3}</UniqueIdentifier>
+      <UniqueIdentifier>{3BEB011B-9E31-4C6D-8829-D7F916196EFC}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SummerGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{1D4ED393-9CA1-44BA-A5D0-05E7074FB1A7}</UniqueIdentifier>
+      <UniqueIdentifier>{570E7344-9D19-499A-84A0-CAEA80B9D4F1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\SummerGame">
-      <UniqueIdentifier>{D086A020-2B58-4AD5-8021-EEF895CA8409}</UniqueIdentifier>
+      <UniqueIdentifier>{8F8936D6-8A1A-4899-8ABC-791F26E2B5C6}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SummerGame\SummerGame.Build.cs">
       <Filter>Source\SummerGame</Filter>
@@ -42,15 +42,21 @@
       <Filter>Source\SummerGame</Filter>
     </ClInclude>
     <Filter Include="Source\SummerGame\Private">
-      <UniqueIdentifier>{BC04B4A4-D748-4AAC-BE81-51CB4F0DE335}</UniqueIdentifier>
+      <UniqueIdentifier>{956F0857-F5AE-404C-9A16-E11ECF63B870}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\SummerGame\Private\class_Character.cpp">
       <Filter>Source\SummerGame\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\SummerGame\Private\class_TrackPoint.cpp">
+      <Filter>Source\SummerGame\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\SummerGame\Public">
-      <UniqueIdentifier>{8BE4EB97-BB55-4199-8925-CDBC0F0D5B0A}</UniqueIdentifier>
+      <UniqueIdentifier>{E8554899-5BB4-4BE9-9ADD-74C5545FA27F}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\SummerGame\Public\class_Character.h">
+      <Filter>Source\SummerGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SummerGame\Public\class_TrackPoint.h">
       <Filter>Source\SummerGame\Public</Filter>
     </ClInclude>
   </ItemGroup>

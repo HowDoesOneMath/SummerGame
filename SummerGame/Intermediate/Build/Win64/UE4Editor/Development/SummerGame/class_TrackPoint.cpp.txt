@@ -1,0 +1,3 @@
+C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\Definitions.SummerGame.h
+C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Source\SummerGame\Public\class_TrackPoint.h
+C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Inc\SummerGame\class_TrackPoint.generated.h

@@ -1,0 +1,15 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Student\Documents\GitHub\SummerGame).
+  Creating makefile for SummerGameEditor (ini files are newer than makefile)
+  Parsing headers for SummerGameEditor
+    Running UnrealHeaderTool "C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\SummerGame.uproject" "C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Intermediate\Build\Win64\SummerGameEditor\Development\SummerGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for SummerGameEditor in 4.4919513 seconds
+  Using Visual Studio 2019 14.21.27702 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 8 processes...
+    [1/4] class_TrackPoint.cpp
+    [2/4] UE4Editor-SummerGame-0009.lib
+       Creating library C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\UE4Editor-SummerGame-0009.lib and object C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\UE4Editor-SummerGame-0009.exp
+    [3/4] UE4Editor-SummerGame-0009.dll
+       Creating library C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\UE4Editor-SummerGame-0009.suppressed.lib and object C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\UE4Editor-SummerGame-0009.suppressed.exp
+    [4/4] SummerGameEditor.target
+  Total time in Parallel executor: 1.31 seconds
+  Total execution time: 7.17 seconds
