@@ -1,0 +1,9 @@
+C:\Users\jakob\OneDrive\Documents\_UNREAL\SummerGame\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\Definitions.SummerGame.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\jakob\OneDrive\Documents\_UNREAL\SummerGame\SummerGame\SummerGame\Source\SummerGame/SummerGameGameModeBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+c:\users\jakob\onedrive\documents\_unreal\summergame\summergame\summergame\intermediate\build\win64\ue4editor\inc\summergame\SummerGameGameModeBase.generated.h

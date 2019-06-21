@@ -1,0 +1,3 @@
+C:\Users\jakob\OneDrive\Documents\_UNREAL\SummerGame\SummerGame\SummerGame\Source\SummerGame\SummerGame.Build.cs
+C:\Users\jakob\OneDrive\Documents\_UNREAL\SummerGame\SummerGame\SummerGame\Source\SummerGame.Target.cs
+C:\Users\jakob\OneDrive\Documents\_UNREAL\SummerGame\SummerGame\SummerGame\Source\SummerGameEditor.Target.cs
