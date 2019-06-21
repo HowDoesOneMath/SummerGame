@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\SummerGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{046B9031-E202-4693-92EB-392BC1EFA238}</UniqueIdentifier>
+      <UniqueIdentifier>{A0590C35-94CC-4EBD-909C-655CB1DA4780}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SummerGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{DA17E0FC-A0D7-4695-A75A-8A62D4A856A4}</UniqueIdentifier>
+      <UniqueIdentifier>{2335195E-118D-401F-9E64-206704BE8339}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\SummerGame">
-      <UniqueIdentifier>{40B01426-808F-413F-814D-7773454A63C4}</UniqueIdentifier>
+      <UniqueIdentifier>{1677A52C-D972-4698-AC72-76CF4D58F0EE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SummerGame\SummerGame.Build.cs">
       <Filter>Source\SummerGame</Filter>

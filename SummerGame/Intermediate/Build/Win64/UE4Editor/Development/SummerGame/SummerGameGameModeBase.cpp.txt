@@ -1,7 +1,7 @@
-C:\Users\jakob\OneDrive\Documents\_UNREAL\SummerGame\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\Definitions.SummerGame.h
-c:\users\jakob\onedrive\documents\_unreal\summergame\summergame\summergame\source\summergame\SummerGameGameModeBase.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\jakob\OneDrive\Documents\_UNREAL\SummerGame\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Inc\SummerGame\SummerGameGameModeBase.generated.h
+D:\Dropbox\Games\Unreal\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\Definitions.SummerGame.h
+d:\dropbox\games\unreal\summergame\summergame\source\summergame\SummerGameGameModeBase.h
+D:\UnrealLibrary\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\UnrealLibrary\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\UnrealLibrary\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\UnrealLibrary\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Dropbox\Games\Unreal\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Inc\SummerGame\SummerGameGameModeBase.generated.h

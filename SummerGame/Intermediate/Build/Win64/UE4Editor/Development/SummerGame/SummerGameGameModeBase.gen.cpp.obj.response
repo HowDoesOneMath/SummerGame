@@ -28,9 +28,9 @@
 /wd4838
 /we4668
 /I .
-/I C:\Users\jakob\OneDrive\Documents\_UNREAL\SummerGame\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Inc\SummerGame
-/I C:\Users\jakob\OneDrive\Documents\_UNREAL\SummerGame\SummerGame\SummerGame\Source
-/I C:\Users\jakob\OneDrive\Documents\_UNREAL\SummerGame\SummerGame\SummerGame\Source\SummerGame
+/I D:\Dropbox\Games\Unreal\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Inc\SummerGame
+/I D:\Dropbox\Games\Unreal\SummerGame\SummerGame\Source
+/I D:\Dropbox\Games\Unreal\SummerGame\SummerGame\Source\SummerGame
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -431,16 +431,16 @@
 /I ThirdParty\libSampleRate
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"C:\Users\jakob\OneDrive\Documents\_UNREAL\SummerGame\SummerGame\SummerGame\Intermediate\Build\Win64\SummerGameEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\jakob\OneDrive\Documents\_UNREAL\SummerGame\SummerGame\SummerGame\Intermediate\Build\Win64\SummerGameEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\jakob\OneDrive\Documents\_UNREAL\SummerGame\SummerGame\SummerGame\Intermediate\Build\Win64\SummerGameEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\jakob\OneDrive\Documents\_UNREAL\SummerGame\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Inc\SummerGame\SummerGameGameModeBase.gen.cpp"
-/FI"C:\Users\jakob\OneDrive\Documents\_UNREAL\SummerGame\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\Definitions.SummerGame.h"
-/Fo"C:\Users\jakob\OneDrive\Documents\_UNREAL\SummerGame\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\SummerGameGameModeBase.gen.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
+/FI"D:\Dropbox\Games\Unreal\SummerGame\SummerGame\Intermediate\Build\Win64\SummerGameEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"D:\Dropbox\Games\Unreal\SummerGame\SummerGame\Intermediate\Build\Win64\SummerGameEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"D:\Dropbox\Games\Unreal\SummerGame\SummerGame\Intermediate\Build\Win64\SummerGameEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"D:\Dropbox\Games\Unreal\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Inc\SummerGame\SummerGameGameModeBase.gen.cpp"
+/FI"D:\Dropbox\Games\Unreal\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\Definitions.SummerGame.h"
+/Fo"D:\Dropbox\Games\Unreal\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\SummerGameGameModeBase.gen.cpp.obj"
 /TP
 /GR-
 /W4
