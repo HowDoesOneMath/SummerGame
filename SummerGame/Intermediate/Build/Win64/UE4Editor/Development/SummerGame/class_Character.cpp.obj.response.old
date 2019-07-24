@@ -28,7 +28,7 @@
 /wd4838
 /we4668
 /I .
-/I C:\Users\100622417\Desktop\PersonalProj\SummerGames\UE4Week3\SummerGame\SummerGame\Source\SummerGame\Private
+/I C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Source\SummerGame\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime
 /I Runtime\Engine\Classes
@@ -427,22 +427,22 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-/I C:\Users\100622417\Desktop\PersonalProj\SummerGames\UE4Week3\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Inc\SummerGame
-/I C:\Users\100622417\Desktop\PersonalProj\SummerGames\UE4Week3\SummerGame\SummerGame\Source
-/I C:\Users\100622417\Desktop\PersonalProj\SummerGames\UE4Week3\SummerGame\SummerGame\Source\SummerGame\Public
-/I C:\Users\100622417\Desktop\PersonalProj\SummerGames\UE4Week3\SummerGame\SummerGame\Source\SummerGame
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.20.27508\INCLUDE"
+/I C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Inc\SummerGame
+/I C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Source
+/I C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Source\SummerGame\Public
+/I C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Source\SummerGame
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"C:\Users\100622417\Desktop\PersonalProj\SummerGames\UE4Week3\SummerGame\SummerGame\Intermediate\Build\Win64\SummerGameEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\100622417\Desktop\PersonalProj\SummerGames\UE4Week3\SummerGame\SummerGame\Intermediate\Build\Win64\SummerGameEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\100622417\Desktop\PersonalProj\SummerGames\UE4Week3\SummerGame\SummerGame\Intermediate\Build\Win64\SummerGameEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\100622417\Desktop\PersonalProj\SummerGames\UE4Week3\SummerGame\SummerGame\Source\SummerGame\Private\class_Character.cpp"
-/FI"C:\Users\100622417\Desktop\PersonalProj\SummerGames\UE4Week3\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\Definitions.SummerGame.h"
-/Fo"C:\Users\100622417\Desktop\PersonalProj\SummerGames\UE4Week3\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\class_Character.cpp.obj"
+/FI"C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Intermediate\Build\Win64\SummerGameEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Intermediate\Build\Win64\SummerGameEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Intermediate\Build\Win64\SummerGameEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Source\SummerGame\Private\class_Character.cpp"
+/FI"C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\Definitions.SummerGame.h"
+/Fo"C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\class_Character.cpp.obj"
 /TP
 /GR-
 /W4

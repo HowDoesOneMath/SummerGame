@@ -1,7 +1,7 @@
-C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\Definitions.SummerGame.h
-C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Source\SummerGame\Public\class_Character.h
+C:\Users\100515057\Desktop\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Development\SummerGame\Definitions.SummerGame.h
+C:\Users\100515057\Desktop\SummerGame\SummerGame\Source\SummerGame\Public\class_Character.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-C:\Users\Student\Documents\GitHub\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Inc\SummerGame\class_Character.generated.h
+C:\Users\100515057\Desktop\SummerGame\SummerGame\Intermediate\Build\Win64\UE4Editor\Inc\SummerGame\class_Character.generated.h
